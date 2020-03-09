@@ -1,0 +1,29 @@
+﻿云桌面
+1. 双击SourceTree
+2. 进入 D:\Users\00734019(帐户)\AppData\Local\Atlassian\SourceTree.exe_Url_b1hjplsocpcnp3nzkzvdraqwzjtxfftq\3.1.2.3027
+3. 在user文件中添加：
+<setting name="AgreedToEULA" serializeAs="String">
+    <value>True</value>
+</setting>
+<setting name="AgreedToEULAVersion" serializeAs="String">
+    <value>20160201</value>
+</setting>
+4. 进入 D:\Users\00734019\AppData\Local\Atlassian\SourceTree
+5. 将accounts.json文件放进去
+6. 启动SourceTree，如果弹出Mercurial询问窗口，使用第四个选项“我不想使用Mercurial”。
+
+私人电脑window电脑
+1. 双击SourceTree
+2. 进入 C:\Users\00734019(帐户)\AppData\Local\Atlassian\SourceTree.exe_Url_b1hjplsocpcnp3nzkzvdraqwzjtxfftq\3.1.2.3027
+3. 在user文件中添加：
+<setting name="AgreedToEULA" serializeAs="String">
+    <value>True</value>
+</setting>
+<setting name="AgreedToEULAVersion" serializeAs="String">
+    <value>20160201</value>
+</setting>
+4. 进入 C:\Users\00734019\AppData\Local\Atlassian\SourceTree
+5. 将accounts.json文件放进去
+6. 启动SourceTree，如果弹出Mercurial询问窗口，使用第四个选项“我不想使用Mercurial”。
+
+所有配置项都选择默认项
